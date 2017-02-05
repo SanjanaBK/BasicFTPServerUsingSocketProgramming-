@@ -2,6 +2,7 @@
 Project created by 
 Sanjana B,Shamitha S,Suraksha and Sowmya R,
 IT 3rd Sem,
+B.Tech,
 NITK.
 */
 
