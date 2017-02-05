@@ -1,3 +1,10 @@
+/*
+Project created by 
+Sanjana B,Shamitha S,Suraksha and Sowmya R,
+IT 3rd Sem,
+NITK.
+*/
+
 import java.io.*;
 import java.net.*;
 public class server {
