@@ -1,3 +1,9 @@
+/*
+Project created by 
+Sanjana B,Shamitha S,Suraksha and Sowmya R,
+IT 3rd Sem,
+NITK.
+*/
 import java.io.*;
 import java.awt.*;
 import java.awt.event.*;
